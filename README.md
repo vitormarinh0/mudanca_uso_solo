@@ -1,7 +1,7 @@
 
 # Análise de Mudança no Uso do Solo no Brasil
 
-![Descrição da Imagem](https://i.ibb.co/YWY9pMC/grafico-uso-solo.png)
+<a href="https://ibb.co/93RSxd1"><img src="https://i.ibb.co/93RSxd1/land-use.png" alt="Mudança do uso do solo no Brasil" border="0"></a>
 
 Este repositório contém um script Python para visualizar a mudança no uso do solo no Brasil sob dois cenários diferentes: "Sem Política" e "Política de Bioeconomia".
 
