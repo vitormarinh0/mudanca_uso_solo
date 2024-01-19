@@ -1,5 +1,5 @@
 
-# Análise de Mudança no Uso do Solo no Brasil
+# Projeção de Mudança no Uso do Solo no Brasil
 
 ![Mudanças no Uso do Solo](land_use.png)
 
